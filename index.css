@@ -1,0 +1,14 @@
+body {
+    background-color: #131d30;
+    color: #c8e3c3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.picture {
+    width: 400px;
+    height: auto;
+}
+
+.title {
+    font-weight: 800;
+}

@@ -5,10 +5,34 @@ body {
 }
 
 .picture {
-    width: 400px;
+    width: 520px;
     height: auto;
+    margin: 12px auto;
+    display: block;
 }
 
 .title {
+    font-weight: 800;
+    margin: 10px auto;
+    text-align: center;
+}
+
+h1.title {
+    font-size: 4em;
+}
+
+.section {
+    background-color: #080c14;
+    margin: 12px auto;
+    padding: 12px;
+    width: 700px;
+}
+
+li {
+    padding: 2px;
+}
+
+a {
+    text-decoration: none;
     font-weight: 800;
 }
